@@ -1,0 +1,11 @@
+util\ShardingUtil.class
+com\zhujt\plugin\PaginationPlugin.class
+com\zhujt\plugin\MapperPlugin.class
+com\zhujt\plugin\SelectByExampleForUpdatePlugin.class
+com\zhujt\plugin\LombokPlugin.class
+com\zhujt\plugin\RepositoryPlugin.class
+com\zhujt\plugin\OverwriteMapperPlugin.class
+com\zhujt\plugin\SelectOneByExampleWithBLOBsPlugin.class
+com\zhujt\plugin\ToStringPlugin.class
+com\zhujt\plugin\SelectOneByExamplePlugin.class
+com\zhujt\plugin\ShardingTablePlugin.class
